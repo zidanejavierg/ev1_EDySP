@@ -4,7 +4,6 @@ import datetime
 
 # -------------------- Datos en memoria --------------------
 lista_clientes, lista_salas, lista_reservas = {}, {}, {}
-
 contador_folio, contador_clientes, contador_salas = 1, 1, 1
 
 # -------------------- Funciones auxiliares --------------------
